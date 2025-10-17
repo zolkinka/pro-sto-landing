@@ -71,6 +71,7 @@ body {
     font-size: var(--h6-size);
     font-weight: 400;
     color: var(--gray-900);
+    text-decoration: none;
 }
 
 .email-icon {
